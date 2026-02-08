@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # ========== CONFIG ==========
-TOKEN = "8190004924:AAEPwuTN_yTpnjvzoOsxdrTQ5VrXSjTX9AM"
+TOKEN = "8523478504:AAGJ3Oygw_yYTPubUYyivOGyx2rm8zmnWKE"
 USERS_FILE = "users.json"
 DATA_DIR = "user_files"
 
